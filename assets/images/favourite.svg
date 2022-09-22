@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="18.453" viewBox="0 0 22 18.453">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.379" x2="1" y2="0.401" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2d6a4f"/>
+      <stop offset="1" stop-color="#95d5b2"/>
+    </linearGradient>
+  </defs>
+  <path id="healthcare" d="M20.175,37.745a6.376,6.376,0,0,0-8.661,0L11,38.234l-.488-.463a6.376,6.376,0,0,0-8.661,0A5.636,5.636,0,0,0,1.825,46.1l8.636,8.2a.811.811,0,0,0,1.079,0l8.636-8.2A5.668,5.668,0,0,0,22,41.935,5.823,5.823,0,0,0,20.175,37.745Z" transform="translate(0 -36.049)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="9.988" viewBox="0 0 12 9.988">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.09" y1="0.408" x2="0.915" y2="0.408" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2d6a4f"/>
+      <stop offset="1" stop-color="#95d5b2"/>
+    </linearGradient>
+  </defs>
+  <g id="heart" transform="translate(0 -5.697)">
+    <path id="Path_26" data-name="Path 26" d="M11.036,6.676a3.351,3.351,0,0,0-4.733,0l-.3.3-.3-.3a3.35,3.35,0,0,0-4.733,0,3.385,3.385,0,0,0-.019,4.713C2.1,12.674,5.51,15.449,5.655,15.566a.527.527,0,0,0,.334.119H6a.511.511,0,0,0,.345-.118c.145-.117,3.554-2.892,4.71-4.177A3.385,3.385,0,0,0,11.036,6.676Zm-.768,4A56.487,56.487,0,0,1,6,14.479a56.365,56.365,0,0,1-4.267-3.8,2.339,2.339,0,0,1-.019-3.255,2.29,2.29,0,0,1,3.234,0l.666.666a.513.513,0,0,0,.284.143.531.531,0,0,0,.487-.143l.666-.666a2.29,2.29,0,0,1,3.234,0A2.339,2.339,0,0,1,10.268,10.68Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
